@@ -1,0 +1,50 @@
+[
+  {
+    "conversation": [
+      { "role": "user", "content": "I want to select a meal for my flight" }
+    ],
+    "function": "transfer_to_meal"
+  },
+  {
+    "conversation": [
+      { "role": "user", "content": "Can I change my meal to vegetarian?" }
+    ],
+    "function": "transfer_to_meal"
+  },
+  {
+    "conversation": [
+      { "role": "user", "content": "I need to cancel my meal selection" }
+    ],
+    "function": "transfer_to_meal"
+  },
+  {
+    "conversation": [
+      { "role": "user", "content": "Do you have halal meal options?" }
+    ],
+    "function": "transfer_to_meal"
+  },
+  {
+    "conversation": [
+      { "role": "user", "content": "What are my meal choices for the flight?" }
+    ],
+    "function": "transfer_to_meal"
+  },
+  {
+    "conversation": [
+      { "role": "user", "content": "I have dietary restrictions" }
+    ],
+    "function": "transfer_to_meal"
+  },
+  {
+    "conversation": [
+      { "role": "user", "content": "My kosher meal wasn't registered" }
+    ],
+    "function": "transfer_to_meal"
+  },
+  {
+    "conversation": [
+      { "role": "user", "content": "I'm having trouble selecting my meal online" }
+    ],
+    "function": "transfer_to_meal"
+  }
+]
